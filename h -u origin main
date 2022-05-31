@@ -1,0 +1,29 @@
+[33mcommit cc9c2b2275033e2a1b887bbf89ad2bbe31bc145e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: neon1102 <ivaeve13@gmail.com>
+Date:   Mon May 23 18:59:23 2022 +0400
+
+    added django files
+
+[33mcommit 799b78c1b69c7e4561e4c2417fed99be5d5f4847[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: neon1102 <ivaeve13@gmail.com>
+Date:   Sun May 22 19:24:58 2022 +0400
+
+    console
+
+[33mcommit 9d042762a97ecb3165fdabf53b946ee2e0367121[m
+Author: neon1102 <ivaeve13@gmail.com>
+Date:   Sun May 22 18:49:00 2022 +0400
+
+    created file readme.md
+
+[33mcommit 781eb1e722da513a2dd89709ba59489487fc18bd[m
+Author: neon1102 <ivaeve13@gmail.com>
+Date:   Sun May 22 18:39:33 2022 +0400
+
+    added gitignore
+
+[33mcommit c4d1ef00ce785319bd768581cfa4641bf624ee5e[m
+Author: neon1102 <ivaeve13@gmail.com>
+Date:   Sun May 22 18:25:45 2022 +0400
+
+    First step of Spirit
